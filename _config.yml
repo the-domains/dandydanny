@@ -1,3 +1,5 @@
+layout_spectrum: 0.929190256204825
+typography_spectrum: 0.831145926117436
 color:
   brandColors:
     - '#000000'
@@ -5,10 +7,10 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-  brandStrength: 0.40657383762300014
-  lightness: 0.5258376200217754
-  saturation: 0.8831914705224335
-  rhythmicContrast: 0.856812946498394
+  brandStrength: 0.9860380665668388
+  lightness: 0.5538511780676165
+  saturation: 0.12519549595376495
+  rhythmicContrast: 0.9983461250409041
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: dandydanny
-layout_spectrum: 0.08770083775743842
-typography_spectrum: 0.22138470690697432
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image

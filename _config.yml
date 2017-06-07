@@ -1,0 +1,52 @@
+color:
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.40657383762300014
+  lightness: 0.5258376200217754
+  saturation: 0.8831914705224335
+  rhythmicContrast: 0.856812946498394
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: dandydanny
+layout_spectrum: 0.08770083775743842
+typography_spectrum: 0.22138470690697432
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/623c0b98-99b6-44fc-b744-ce6ff8d52929.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/623c0b98-99b6-44fc-b744-ce6ff8d52929.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: DandyDannyLikesThese
+description: Things I like
+github: true
+author:
+  name: Daniel
+  url: 'https://twitter.com/dandydanny'
